@@ -1,1 +1,1 @@
-# brute a custom brute forcer that i made for a htb challange 
+# brute a custom brute forcer for a htb challange 
